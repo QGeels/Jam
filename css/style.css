@@ -41,3 +41,203 @@ li{
 .item {
     margin: 0.5rem;
 }
+
+#backdrop{
+    display: none;
+    position: fixed;
+    background-color: rgba(0, 0, 0, 0.5);
+    top: 0;
+    height: 100vh;
+    width: 100vw;
+    z-index: 1;
+}
+
+#modal1{
+    display: none;
+    background-color: azure;
+    position: fixed;
+    height: 500px;
+    width: 800px;
+    padding: 10px;
+    left: 30%;
+    top: 100px;
+    z-index: 1;
+}
+
+.modal_text1{
+    color: black;
+    font-size: 30px;
+    padding-left: 25px;
+}
+
+.modal_information1{
+    float: right;
+    color: black;
+    padding-right: 160px;
+    padding-top: 50px;
+    font-size: 20px;
+}
+
+#modal1 img{
+    padding-top: 10px;
+    padding-left: 25px;
+}
+
+
+#modal2{
+    display: none;
+    background-color: azure;
+    position: fixed;
+    height: 500px;
+    width: 800px;
+    padding: 10px;
+    left: 30%;
+    top: 100px;
+    z-index: 1;
+}
+
+.modal_text2{
+    color: black;
+    font-size: 30px;
+    padding-left: 25px;
+}
+
+.modal_information2{
+    float: right;
+    color: black;
+    padding-right: 160px;
+    padding-top: 50px;
+    font-size: 20px;
+}
+
+#modal2 img{
+    padding-top: 10px;
+    padding-left: 25px;
+}
+
+
+#modal3{
+    display: none;
+    background-color: azure;
+    position: fixed;
+    height: 500px;
+    width: 800px;
+    padding: 10px;
+    left: 30%;
+    top: 100px;
+    z-index: 1;
+}
+
+.modal_text3{
+    color: black;
+    font-size: 30px;
+    padding-left: 25px;
+}
+
+.modal_information3{
+    float: right;
+    color: black;
+    padding-right: 160px;
+    padding-top: 50px;
+    font-size: 20px;
+}
+
+#modal3 img{
+    padding-top: 10px;
+    padding-left: 25px;
+}
+
+#modal4{
+    display: none;
+    background-color: azure;
+    position: fixed;
+    height: 500px;
+    width: 800px;
+    padding: 10px;
+    left: 30%;
+    top: 100px;
+    z-index: 1;
+}
+
+.modal_text4{
+    color: black;
+    font-size: 30px;
+    padding-left: 25px;
+}
+
+.modal_information4{
+    float: right;
+    color: black;
+    padding-right: 160px;
+    padding-top: 50px;
+    font-size: 20px;
+}
+
+#modal4 img{
+    padding-top: 10px;
+    padding-left: 25px;
+}
+
+
+#modal5{
+    display: none;
+    background-color: azure;
+    position: fixed;
+    height: 500px;
+    width: 800px;
+    padding: 10px;
+    left: 30%;
+    top: 100px;
+    z-index: 1;
+}
+
+.modal_text5{
+    color: black;
+    font-size: 30px;
+    padding-left: 25px;
+}
+
+.modal_information5{
+    float: right;
+    color: black;
+    padding-right: 160px;
+    padding-top: 50px;
+    font-size: 20px;
+}
+
+#modal5 img{
+    padding-top: 10px;
+    padding-left: 25px;
+}
+
+
+#modal6{
+    display: none;
+    background-color: azure;
+    position: fixed;
+    height: 500px;
+    width: 800px;
+    padding: 10px;
+    left: 30%;
+    top: 100px;
+    z-index: 1;
+}
+
+.modal_text6{
+    color: black;
+    font-size: 30px;
+    padding-left: 25px;
+}
+
+.modal_information6{
+    float: right;
+    color: black;
+    padding-right: 160px;
+    padding-top: 50px;
+    font-size: 20px;
+}
+
+#modal6 img{
+    padding-top: 10px;
+    padding-left: 25px;
+}
