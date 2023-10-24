@@ -8,6 +8,10 @@ html,body,header{
     background-repeat: no-repeat;
     background-size: cover;
 }
+
+body:hover{
+    cursor: url("../img/icons8-snail-48.png"), pointer;
+}
 img {
     width: auto;
     height: 35vh;
@@ -54,7 +58,6 @@ li{
     margin: 0.5rem;
 }
 .item:hover {
-    cursor: pointer;
 }
 #backdrop{
     display: none;
@@ -272,4 +275,11 @@ li{
     margin-left: 25px;
     width: auto;
     height: 35vh;
+}
+
+#title{
+    text-align: center;
+    font-size: 40px;
+    color: whitesmoke;
+    text-shadow: -3px -3px 0 #000, 3px -3px 0 #000, -3px 3px 0 #000, 3px 3px 0 #000;
 }
