@@ -13,6 +13,14 @@ html,body,header{
 body:hover{
     cursor: url("../img/icons8-snail-48.png"), pointer;
 }
+
+.trail {
+    position: absolute;
+    height: 6px;
+    width: 6px;
+    border-radius: 3px;
+    background: teal;
+}
 img {
     width: auto;
     height: 33vh;
