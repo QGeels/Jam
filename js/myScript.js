@@ -11,6 +11,12 @@ let modal3 = document.getElementById("modal3");
 let modal4 = document.getElementById("modal4");
 let modal5 = document.getElementById("modal5");
 let modal6 = document.getElementById("modal6");
+document.getElementById("closeModal1").onclick = function() {hideModal1()};
+document.getElementById("closeModal2").onclick = function() {hideModal1()};
+document.getElementById("closeModal3").onclick = function() {hideModal1()};
+document.getElementById("closeModal4").onclick = function() {hideModal1()};
+document.getElementById("closeModal5").onclick = function() {hideModal1()};
+document.getElementById("closeModal6").onclick = function() {hideModal1()};
 
 img1.onclick = showModal1;
 img2.onclick = showModal2;
