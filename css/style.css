@@ -7,20 +7,29 @@ html,body,header{
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
+    overflow: hidden;
 }
 
 body:hover{
     cursor: url("../img/icons8-snail-48.png"), pointer;
 }
+
+.trail {
+    position: absolute;
+    height: 6px;
+    width: 6px;
+    border-radius: 3px;
+    background: teal;
+}
 img {
     width: auto;
-    height: 35vh;
+    height: 33vh;
     border: 0.2rem solid;
     transition: 1s;
 }
 img:hover{
     width: auto;
-    height: 37vh;
+    height: 35vh;
     border: 0.2rem solid;
 }
 .container{
