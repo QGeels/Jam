@@ -36,6 +36,8 @@ li{
     align-items: center;
     justify-content: space-around;
     flex-wrap: wrap;
-    margin: 1rem;
     padding: 1rem;
+}
+.item {
+    margin: 0.5rem;
 }
