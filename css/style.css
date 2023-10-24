@@ -22,14 +22,14 @@ body:hover{
     background: teal;
 }
 img {
-    width: auto;
-    height: 33vh;
+    height: auto;
+    width: 24vw;
     border: 0.2rem solid;
     transition: 1s;
 }
 img:hover{
-    width: auto;
-    height: 35vh;
+    height: auto;
+    width: 26vw;
     border: 0.2rem solid;
 }
 .container{
