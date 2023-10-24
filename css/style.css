@@ -76,6 +76,7 @@ li{
     left: 30%;
     top: 100px;
     z-index: 1;
+    border-radius: 10px;
 }
 
 .modal_text1{
@@ -110,6 +111,7 @@ li{
     left: 30%;
     top: 100px;
     z-index: 1;
+    border-radius: 10px;
 }
 
 .modal_text2{
@@ -144,6 +146,7 @@ li{
     left: 30%;
     top: 100px;
     z-index: 1;
+    border-radius: 10px;
 }
 
 .modal_text3{
@@ -177,6 +180,7 @@ li{
     left: 30%;
     top: 100px;
     z-index: 1;
+    border-radius: 10px;
 }
 
 .modal_text4{
@@ -211,6 +215,7 @@ li{
     left: 30%;
     top: 100px;
     z-index: 1;
+    border-radius: 10px;
 }
 
 .modal_text5{
@@ -245,6 +250,7 @@ li{
     left: 30%;
     top: 100px;
     z-index: 1;
+    border-radius: 10px;
 }
 
 .modal_text6{
