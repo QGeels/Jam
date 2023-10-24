@@ -281,5 +281,5 @@ li{
     text-align: center;
     font-size: 40px;
     color: whitesmoke;
-    text-shadow: -3px -3px 0 #000, 3px -3px 0 #000, -3px 3px 0 #000, 3px 3px 0 #000;
+    text-shadow: -3px -3px 0 #B00F0FFF, 3px -3px 0 #b00f0f, -3px 3px 0 #B00F0FFF, 3px 3px 0 #B00F0FFF;
 }
