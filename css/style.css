@@ -3,6 +3,10 @@ html,body,header{
     padding: 0;
     font-family: "Segoe UI" , Tahoma, Verdana;
     background-image: url("../img/background.jpg");
+    height: 100%;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
 }
 img {
     width: auto;
@@ -41,6 +45,8 @@ li{
 }
 .item {
     margin: 0.5rem;
+    border: 0.2rem solid;
+    border-spacing: 0;
 }
 
 #backdrop{
