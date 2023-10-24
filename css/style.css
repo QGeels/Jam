@@ -12,6 +12,12 @@ img {
     width: auto;
     height: 35vh;
     border: 0.2rem solid;
+    transition: 1s;
+}
+img:hover{
+    width: auto;
+    height: 37vh;
+    border: 0.2rem solid;
 }
 .container{
     margin: 0;
@@ -47,7 +53,9 @@ li{
 .item {
     margin: 0.5rem;
 }
-
+.item:hover {
+    cursor: pointer;
+}
 #backdrop{
     display: none;
     position: fixed;
