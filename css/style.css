@@ -13,6 +13,9 @@ html,body,header{
 body:hover{
     cursor: url("../img/icons8-snail-48.png"), pointer;
 }
+p{
+    font-size: 20px;
+}
 
 .trail {
     position: absolute;
